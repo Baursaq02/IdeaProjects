@@ -10,12 +10,3 @@ public class Lab9Application {
         SpringApplication.run(Lab9Application.class, args);
     }
 }
-/*{
-        "emails": [
-        "dgozalkhanov@mail.ru",
-        "mgozalkhanov@mail.ru"
-        ],
-        "subject": "Тест рассылки",
-        "body": "ха"
-        }
-*/
